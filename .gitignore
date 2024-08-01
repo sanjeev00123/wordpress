@@ -1,0 +1,2 @@
+git rm --cached wp-config.php # used if the ignorable file is already tracked.
+wp-config.php
